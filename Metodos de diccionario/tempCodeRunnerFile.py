@@ -1,0 +1,2 @@
+
+valores = diccionario.get("nombre")
